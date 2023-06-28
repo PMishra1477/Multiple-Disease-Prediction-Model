@@ -1,0 +1,1 @@
+streamlit run "C:\Users\mishr\DSDL Bootcamp\Disease\app.py"
