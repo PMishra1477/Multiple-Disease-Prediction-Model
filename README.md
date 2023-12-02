@@ -1,1 +1,1 @@
-# DSDL-Bootcamp
+Multiple-Disease-Prediction-Model
